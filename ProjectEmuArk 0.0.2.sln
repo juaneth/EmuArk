@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30225.117
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "ProjectEmuArk 0.0.2", "ProjectEmuArk 0.0.2.vbproj", "{77F0EF86-91A9-4490-A19B-8B211C536BEE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{77F0EF86-91A9-4490-A19B-8B211C536BEE}.Debug|x86.ActiveCfg = Debug|x86
+		{77F0EF86-91A9-4490-A19B-8B211C536BEE}.Debug|x86.Build.0 = Debug|x86
+		{77F0EF86-91A9-4490-A19B-8B211C536BEE}.Release|x86.ActiveCfg = Release|x86
+		{77F0EF86-91A9-4490-A19B-8B211C536BEE}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5F64437C-33BC-4757-BCC0-23D2F6CB5288}
+	EndGlobalSection
+EndGlobal
